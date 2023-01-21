@@ -1,0 +1,121 @@
+.banner{
+    position: relative;
+}
+.banner-text{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+.btn{
+    width: 160px;
+height: 64px;
+background: #F15B22;
+border-radius: 5px;
+
+color: 
+#FFFFFF;
+padding: 20px;
+}
+.title{
+    font-weight: 700;
+font-size: 65px;
+
+}
+.pera{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+text-align: right;
+margin-right:20% ;
+}
+.person{
+    display: flex;
+    margin-top: 130px;
+margin-left: 200px;
+margin-right: 320px;
+margin-bottom: 130px;
+}
+.women{
+    margin-right: 87px;
+}
+.failures{
+    margin-top: 250px;
+}
+.my{
+    font-weight: 700;
+font-size: 40px;
+}
+.my-plans{
+    margin: 230px 230px;
+}
+.h2{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+}
+.all-plan{
+    display: flex;
+   justify-content: space-between;
+
+}
+.watch{
+   margin-top: 130px;
+  
+   margin-bottom: 130px;
+   margin-right: 230px;
+  background-image: url(../images/gradient1.png);
+  background: linear-gradient(url(../images/gradient1.png));
+border-radius: 8px;
+
+}
+.watch-img{
+    position: relative;
+}
+.watch-writting{
+    position: absolute;
+    top: 0;
+    left: 60px;
+}
+.mind{
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+}
+.call{
+    width: 160px;
+height: 64px;
+font-weight: 600;
+font-size: 20px;
+color: #F15B22;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    padding: 100px;
+}
+.icons{
+    display: flex;
+    
+}
+icon{
+    margin-right: 15px;
+}
+.future{
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-bottom: 130px;
+    color: #FFFFFF;
+}
+.forms{
+    color: #FFFFFF;
+    margin-right: 230px;
+    margin-top: 130px;
+    margin-bottom: 240px;
+}
+.btns{
+    height: 64px;
+left: 1046px;
+margin-top: 10px;
+color: #F15B22;
+background-color: #FFFFFF;
+}
